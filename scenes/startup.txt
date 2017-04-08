@@ -1,0 +1,357 @@
+WARNING: This story contains:
+
+1. Swearing
+
+2. Illegal activities
+
+3. Marijuana use
+
+4. Crude humor.
+
+Parental discretion advised.
+
+This game is a simulation of the trials and tribulations of two average joes trying to start a medical marijuana business in the heady, wild west days of recent legalization.
+
+Not only will the reader learn about horticulture, the medical marijuana industry, and how to succeed or fail in starting a small business, I hope the story will be very entertaining as well, full of hilarious, stoner humor, drama, and interesting choices.
+
+.
+
+Enjoy!
+*choice
+	#I am over the age of eighteen or have parental consent to read this story
+		*goto PlaceWisconsinUS
+
+*label PlaceWisconsinUS
+Place: Wisconsin, USA
+
+Time: The near future
+
+Knock, knock, knock! Someone's rapping excitedly on your front door, but you, dozing on the couch do not particularly feel like being disturbed. You try to ignore it, but the knocking is incessant. You hear your name being called.
+
+"Jake! Jake! It's me Shawn. Wake up, man, I know you're in there!"
+
+Shawn is your little scrawny redheaded over-excitable friend. It might have something to do with all the sugar he eats, and he's always having all kinds of bright ideas for money-making ventures. Today is probably no exception.
+
+You can hear it in his voice--he has another idea and wants your help, and in your semi-hypnagogic state, you dreamily think back to his last get rich quick scheme, a porn site.
+
+Unfortunately, you couldn't find any girls who wanted to pose naked, but undaunted, Shawn hit upon the super fantastic incredible idea of making it a gay porn site with YOU as the star. Needless to say, you are not very excited about his next idea, whatever it is.
+*choice
+	#Go back to sleep
+		*goto cRASHYouHearTheS
+	#Get the door
+		*comment LOOSE END #1
+		*finish
+
+*label cRASHYouHearTheS
+CRASH! You hear the sound of a window breaking in the general vicinity of your kitchen.
+
+"Jake!" Shawn's voice is now also coming from the general vicinity of your kitchen.
+
+Now, you might not be the sharpest tool in the shed, but putting two and two together, you decide that Shawn is so excited about his new business idea that he's actually BROKEN INTO YOUR HOUSE to tell you about it.
+*choice
+	#Hmm... maybe it's a good idea this time?
+		*goto youSeemToBeTheOp
+	#Wring Shawn's scrawny little neck
+		*comment LOOSE END #2
+		*finish
+
+*label youSeemToBeTheOp
+You seem to be the optimistic type, at least today... God knows why.
+
+Sleepily you waddle into the kitchen, Shawn's exuberance in stark contrast to your barely-awake lethargy.
+
+"Guess what, dude!" Shawn says, not even bothering to say hello, how are you?, or any of the usual pleasantries. "Medical marijuana is now legal. 100%, completely, and totally LEGAL! Do you know what this means? It means that me and YOU are gonna get rich! All we gotta do is grow it. Are you in?"
+*choice
+	#Hmm... this DOES actually seem like a good idea this time!
+		*goto youAndShawnGoInt
+	#Though it seems like a good idea, decline the offer.
+		*goto dangItShawnYouEx
+
+*label youAndShawnGoInt
+You and Shawn go into business!
+
+"The boys are back in town!" Shawn cries, slapping you on the back so hard it brings tears to your eyes.
+
+"Easy there, bucko," you say between coughs. "If we're gonna do this, we're gonna do it right. That means..."
+
+"I don't slap you so hard on the back anymore? Sorry, Jake-man, I just got over-excited. You know how I get..."
+
+"No, dummy," you cut him off. "It means... well, yeah, it does mean no slapping me on the back so hard, cuz that REALLY HURT, but what I was going to say is that it means we gotta be serious, no crazy stoner, seat-of-the-pants shit. It means we do it right!"
+
+"Yeah, of course, that goes without saying," Shawn says, but you can tell by the way his eyes are glazing over that he really doesn't have the foggiest idea of what you're talking about.
+
+Get ready for a wild ride... you think to yourself grimly, and for a moment visions of yourself dancing naked around a stripper pole come to mind for some reason. You shake it off.
+
+"So okay boss, how do we start?" Shawn asks eagerly, looking like a kid who's just found himself in a combination toy store and candy store with an unlimited bankroll.
+*choice
+	#The whole thing was Shawn's idea, so he needs to man up and call the shots.
+		*comment LOOSE END #3
+		*finish
+	#Shawn would screw it up, so you decide to call the shots, even though you know nothing about growing plants.
+		*comment LOOSE END #4
+		*finish
+	#Find out if Shawn knows about plants.
+		*goto whoaSlowDownTher
+
+*label dangItShawnYouEx
+"Dang it, Shawn!" you exclaim. "I'm not going in with you on another hair-brained get rich quick scheme, not after last time with the whole gay porn thing. If you want to do gay porn, then YOU do gay porn and leave me out of it, and if you want to grow more doobage than either of us could smoke in our lifetimes, all legally, no longer worrying about the cops, just sitting back, raking in the dough, puffing on giant, fat blunts, be my guest..."
+
+Your voice trails off. "Dang it," you think to yourself, "I may live to regret this, but I'm gonna do it!"
+*choice
+	#Go into business!
+		*goto youAndShawnGoInt
+
+*label whoaSlowDownTher
+"Whoa, slow down there, cowboy," you say. "I know jack shit about growing plants, so like I said, we gotta do this right if we're gonna do it at all. Agreed?"
+
+"Um, sure..." Shawn says hesitantly, not really knowing what you mean by "do this right."
+
+"Good," you say. "Now, let's not do this like that stupid porn site idea..."
+
+"It wasn't stupi..." Shawn starts to protest.
+
+"Ok, ok," you cut him off. "It wasn't stupid, but what I'm trying to say is that we went off half-cocked, didn't know anything, and invested actual hard earned money without knowing what we were doing. Let's learn from our mistakes and do it better."
+
+"Yeah!" Shawn cries, enthusiastic again.
+*choice
+	#Ask Shawn how much he knows about growing plants
+		*goto okSoFirstOffHowM
+
+*label okSoFirstOffHowM
+"Ok, so first off, how much do you know about growing plants?" you ask Shawn.
+
+Shawn's face breaks into an ear-to-ear grin. "Check this out," he says, throwing down his backpack and rummaging around inside. Finally, he pulls out an old dog-eared book.
+
+"I found this in my uncle's library," he says. "It's a book from the 70's and tells you all about growing weed. Dude, this is the motherlode. I mean, we're talking the 70's, the time when pot was king!"
+*choice
+	#But... has he ever actually grown a plant?
+		*goto youLookTheBookOv
+
+*label youLookTheBookOv
+You look the book over, and it indeed seems to go into detail about all the steps for growing plants.
+
+"Ok, this book's a start, but have you ever actually grown a plant?"
+
+"Weeeell," Shawn says, getting fidgety. "My parents had a garden when I was a kid, but I hated helping with it. Still, they forced me sometimes..."
+
+"Ok," you say. "It sounds like we both don't know about growing plants, so who's gonna read this book first?"
+*choice
+	#Have Shawn read it. After all, this was his idea.
+		*goto meMeMeShawnExcla
+	#Decide Shawn would screw it up, so you read it.
+		*comment LOOSE END #5
+		*finish
+
+*label meMeMeShawnExcla
+"Me! Me! Me!" Shawn exclaims.
+
+"Ok, cool," you say, simultaneously relieved you don't have to do the work but also worried he'll screw it up. You plan to keep a careful eye on him.
+
+"Hey," Shawn says, "How much money you got? I was thinking we could go to the grow store and get some pots and stuff. I saved some seeds from my last bag of doobage, so let's get planting!
+*choice
+	#"Aren't you going to read the book first?
+		*comment LOOSE END #6
+		*finish
+	#"I've got a little. Let's go!
+		*goto youCheckYourWall
+
+*label youCheckYourWall
+You check your wallet and find $[number:jake_money].
+
+"How much money do YOU have, Shawn?" you ask to make sure he knows you're not going to be Mr. Moneybags. "We're doing this 50/50, right?
+
+"Absolutely," Shawn says. "50/50 for the profits too."
+
+He looks in his wallet and says, "Looks like I got $[number:shawn_money]."
+
+"Um... so we only have your [value:shawn_money] dollars plus [value:shawn_money] dollars of my money to spend? Is that going to be enough?"
+
+Shawn looks at you disappointedly. "But you have a lot more than that, though..."
+*choice
+	#"But what about 50/50?
+		*goto awManPleaseDudeW
+	#"Ok, I'll be Mr. Moneybags today, but you better pony up next time!
+		*goto thanksManYouWont
+
+*label awManPleaseDudeW
+"Aw, man! Please, dude, we're just getting started. I'll pay you back, honest!" Shawn pleads.
+*choice
+	#Give in
+		*goto okWhateverDudeYo
+	#Stick to your guns
+		*comment LOOSE END #7
+		*finish
+
+*label thanksManYouWont
+"Thanks, man, you won't regret this!" Shawn says happily.
+*choice
+	#Go to the grow store
+		*goto theLocalGardenin
+
+*label theLocalGardenin
+The local gardening store is named "Gardens 'R Us," and luckily it's very close to your house. You make Shawn drive[day1 paid more: since he was such a chump, making you foot more of the bill.|.]
+
+"Wow! Look at all this stuff," Shawn says, eyes wide as he gazes upon aisle after aisle of all imaginable forms of gardening equipment.
+
+"Can I help you?" a thin, middle-aged man asks. The name tag on his uniform identifies him as the manager.
+
+"Nice grow store!" Shawn compliments, but it only makes the man's face go for reserved to irritated.
+
+"This is NOT a 'grow store,'" he sneers. "You're not thinking of growing anything illegal are you? Cuz if you are, I'll have you know that the police have been known to watch this place and follow shady-looking customers home. You wouldn't want that now would you?"
+*choice
+	#"Marijuana's legal now, though!
+		*goto youGuysGotCardsT
+	#"Hey, this is discrimination. We're growing a regular garden.
+		*comment LOOSE END #8
+		*finish
+	#Politely leave the store
+		*comment LOOSE END #9
+		*finish
+
+*label okWhateverDudeYo
+"Ok, whatever, dude," you mutter. "You better really pay me back, though."
+*goto thanksManYouWont
+*label youGuysGotCardsT
+"You guys got cards?" the manager asks gruffly. "Yeah, it's legal, but only if a doctor does the paperwork. Plus, it's still very illegal on the federal level, a schedule one drug, in other words, carrying the highest penalty, just like heroin and crack. We don't cater to that kind of stuff here, so why don't you boys take your business elsewhere?"
+*choice
+	#"We have cards," you lie.
+		*comment LOOSE END #10
+		*finish
+	#Politely leave the store
+		*comment LOOSE END #11
+		*finish
+	#Leave but make a scene first
+		*comment LOOSE END #12
+		*finish
+	#Get your shopping done and not care what the manager does
+		*goto itsAFreeCountryY
+
+*label itsAFreeCountryY
+"It's a free country," you say, looking he manager square in the eye. "Call the cops if you want, but we're not making a scene. We're just gonna buy stuff and leave."
+
+You walk around the manager and start browing down an aisle. Surprisingly, the manager doesn't say anything, just shakes his head and goes back to what he was doing.
+
+"Holy crap, man!" Shawn whispers excitedly, wearing an ear-to-ear grin. "You talked that asshole right down!"
+
+You just shrug.
+
+In a moment Shawn starts to get pensive. "But, uh, dude..." he says, voice trailing off, forehead wrinkling into a worried frown. "We don't have cards, and what if he really does call the cops? What if the feds are watching this place? We look like stoners. They'll follow us for sure!"
+*choice
+	#Start to get scared too
+		*comment LOOSE END #13
+		*finish
+	#You're not worried
+		*goto soWhatIfTheyDoYo
+
+*label soWhatIfTheyDoYo
+"So what if they do?" you retort. "We're just buying some gardening supplies, and that's not illegal. We'll get our medical-use license cards and be fine."
+
+"Hmm..." Shawn says, still unsure. You see the gears turning in his head.
+
+"Well, I guess you're right," he finally concludes, starting to smile, but then, his mouth falls open, face turning ashen.
+
+"Duuuude," he whispers. "I'm/= holding..."=/
+*choice
+	#Worry
+		*comment LOOSE END #14
+		*finish
+	#Don't worry
+		*goto youChuckle
+
+*label youChuckle
+You chuckle.
+
+"It's not funny!" Shawn whispers urgently, his voice cracking, almost on the verge of tears.
+
+"Look, no one's gonna follow us home. You're carrying pot around all the time and never got caught yet, so why now? Cuz you went to Gardens 'R Us? Just chill. If you're gonna be so freaked out about everything, you can't even be in this business."
+
+Shawn, unconvinced, says, "Still, just to be safe, I'm gonna ditch the weed and drive around. Buy the stuff, start to walk home, and I'll pick you up... if the coast is clear."
+
+He quickly turns and hurriedly leaves the store.
+*choice
+	#Follow him
+		*comment LOOSE END #15
+		*finish
+	#Buy grow equipment
+		*goto dammitShawnYouTh
+
+*label dammitShawnYouTh
+"Dammit, Shawn," you think to yourself, getting exasperated. You don't know what to buy, you don't have his [number:shawn_money], and cuz of that manager, asking an employee for advice is probably not a good idea. However, you don't want to make a scene chasing after Shawn and having heated little whisper arguments right in the grow store parking lot where the cops or feds might be watching.
+*choice
+	#Just buy a few pots
+		*comment LOOSE END #16
+		*finish
+	#Look around, think hard, plan, and buy a nice setup
+		*comment LOOSE END #17
+		*finish
+	#Decide not to buy anything after all
+		*goto missionAbortItsG
+
+*label missionAbortItsG
+Mission abort. It's gotten too weird too fast, and you have a lot to think about, Shawn's money to get, and maybe this whole store isn't the best place to do business. You go back outside just in time to see Shawn pulling out of the lot. He sees you, looks confused and worried, and keeps going.
+*choice
+	#Call out
+		*goto youDecideThatTho
+	#Start walking home
+		*comment LOOSE END #18
+		*finish
+
+*label youDecideThatTho
+You decide that though the cops might be watching, enough is enough.
+
+"Shawn!" you yell, but he doesn't stop.
+*choice
+	#Start walking home
+		*goto itsAboutAMileWha
+
+*label itsAboutAMileWha
+It's about a mile. What seems close by car doesn't seem so close anymore when on foot, and Shawn is nowhere to be seen.
+*choice
+	#Keep walking
+		*goto stillNoShawn
+
+*label stillNoShawn
+Still no Shawn...
+*choice
+	#Keep walking
+		*goto looksLikeYouGotD
+
+*label looksLikeYouGotD
+Looks like you got ditched. You make it all the way back to your house with nary a sighting of Shawn at all, nor is he at your house. You're tired, you're angry, you didn't even eat breakfast. To top it off, you forgot your phone at home, so you couldn't even call Shawn while you were walking.
+
+You go inside, and your cell phone is blinking--a missed call from Shawn.
+
+You snatch up your phone,dial voicemail, and in a minute you hear his static-ridden, angry voice.
+
+"WTF is wrong with you?!?" he rips into you. "Why did you yell to me like that? I'll be over later when I'm sure the coast is clear, but seriously, dude, you're the one who said we have to do this right, but now you're the one making crazy mistakes. You better straighten up."
+
+Click.
+*choice
+	#Wait for Shawn
+		*goto youDecideNotToCa
+	#Call him back to chew him out
+		*comment LOOSE END #19
+		*finish
+	#Call him back, paranoid about the cops
+		*comment LOOSE END #20
+		*finish
+
+*label youDecideNotToCa
+You decide not to call him back to give yourself time to cool off, because if you talked to him now, it'd be likely you'd not only quit the business but the friendship too.
+*choice
+	#Smoke 
+		*goto instantStressRel
+	#Pass the time some other way
+		*goto youFlipOnTheTube
+
+*label instantStressRel
+"Instant stress relief," you think to yourself as you take a hit off your bong, but you try not to use it for that too often. Pot's best when it enhances the good things in life, not numbing yourself out from its pain, but you decide you need it this time because Shawn is just too much to take when sober sometimes.
+
+By the time he arrives, everything's groovy again, but at the same time, you might not have the mental clarity (or motivation) to do good business.
+*comment ENDING #1
+*finish
+
+*label youFlipOnTheTube
+You flip on the tube, play a video game, listen to some Metallica, or do something else to take your mind off Shawn and the grow store fiasco. None of it works, and fifteen minutes later when he arrives, you're still fuming.
+*comment ENDING #2
+*finish
